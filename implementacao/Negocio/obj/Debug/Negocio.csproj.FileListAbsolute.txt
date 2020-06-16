@@ -1,0 +1,20 @@
+D:\DESENV\Condominio\Negocio\bin\Debug\Negocio.dll
+D:\DESENV\Condominio\Negocio\bin\Debug\Negocio.pdb
+D:\DESENV\Condominio\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Negocio\obj\Debug\Negocio.dll
+D:\DESENV\Condominio\Negocio\obj\Debug\Negocio.pdb
+E:\OUTROS\Condominio\Source\Negocio\bin\Debug\Negocio.dll
+E:\OUTROS\Condominio\Source\Negocio\bin\Debug\Negocio.pdb
+E:\OUTROS\Condominio\Source\Negocio\obj\Debug\Negocio.dll
+E:\OUTROS\Condominio\Source\Negocio\obj\Debug\Negocio.pdb
+D:\DESENV\Condominio\Source\Negocio\bin\Debug\Negocio.dll
+D:\DESENV\Condominio\Source\Negocio\bin\Debug\Negocio.pdb
+D:\DESENV\Condominio\Source\Negocio\obj\Debug\Negocio.dll
+D:\DESENV\Condominio\Source\Negocio\obj\Debug\Negocio.pdb
+D:\DESENV\Condominio\Source\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Source\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio\bin\Debug\Negocio.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio\bin\Debug\Negocio.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio\obj\Debug\Negocio.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio\obj\Debug\Negocio.pdb

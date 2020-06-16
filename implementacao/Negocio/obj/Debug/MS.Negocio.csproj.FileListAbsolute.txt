@@ -1,0 +1,6 @@
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Negocio\bin\Debug\Negocio.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Negocio\bin\Debug\Negocio.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Negocio\obj\Debug\MS.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Negocio\obj\Debug\Negocio.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Negocio\obj\Debug\Negocio.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Negocio\obj\Debug\MS.Negocio.csprojAssemblyReference.cache

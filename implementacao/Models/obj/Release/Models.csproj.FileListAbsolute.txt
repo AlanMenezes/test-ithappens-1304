@@ -1,0 +1,6 @@
+D:\DESENV\Condominio\Source\Models\bin\Release\Models.dll
+D:\DESENV\Condominio\Source\Models\bin\Release\Models.pdb
+D:\DESENV\Condominio\Source\Models\obj\Release\Models.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Source\Models\obj\Release\Models.dll
+D:\DESENV\Condominio\Source\Models\obj\Release\Models.pdb
+D:\DESENV\Condominio\Source\Models\obj\Release\Models.csproj.CoreCompileInputs.cache

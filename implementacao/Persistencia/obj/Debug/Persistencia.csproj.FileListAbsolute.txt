@@ -1,0 +1,46 @@
+D:\DESENV\Condominio\Persistencia\bin\Debug\Persistencia.dll
+D:\DESENV\Condominio\Persistencia\bin\Debug\Persistencia.pdb
+D:\DESENV\Condominio\Persistencia\bin\Debug\Dapper.dll
+D:\DESENV\Condominio\Persistencia\bin\Debug\Negocio.dll
+D:\DESENV\Condominio\Persistencia\bin\Debug\Negocio.pdb
+D:\DESENV\Condominio\Persistencia\bin\Debug\Dapper.xml
+D:\DESENV\Condominio\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\DESENV\Condominio\Persistencia\obj\Debug\Persistencia.dll
+D:\DESENV\Condominio\Persistencia\obj\Debug\Persistencia.pdb
+E:\OUTROS\Condominio\Source\Persistencia\bin\Debug\Persistencia.dll
+E:\OUTROS\Condominio\Source\Persistencia\bin\Debug\Persistencia.pdb
+E:\OUTROS\Condominio\Source\Persistencia\bin\Debug\Dapper.dll
+E:\OUTROS\Condominio\Source\Persistencia\bin\Debug\Negocio.dll
+E:\OUTROS\Condominio\Source\Persistencia\bin\Debug\Negocio.pdb
+E:\OUTROS\Condominio\Source\Persistencia\bin\Debug\Dapper.xml
+E:\OUTROS\Condominio\Source\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+E:\OUTROS\Condominio\Source\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+E:\OUTROS\Condominio\Source\Persistencia\obj\Debug\Persistencia.dll
+E:\OUTROS\Condominio\Source\Persistencia\obj\Debug\Persistencia.pdb
+D:\DESENV\Condominio\Source\Persistencia\bin\Debug\Persistencia.dll
+D:\DESENV\Condominio\Source\Persistencia\bin\Debug\Persistencia.pdb
+D:\DESENV\Condominio\Source\Persistencia\bin\Debug\Dapper.dll
+D:\DESENV\Condominio\Source\Persistencia\bin\Debug\Negocio.dll
+D:\DESENV\Condominio\Source\Persistencia\bin\Debug\Negocio.pdb
+D:\DESENV\Condominio\Source\Persistencia\bin\Debug\Dapper.xml
+D:\DESENV\Condominio\Source\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Source\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\DESENV\Condominio\Source\Persistencia\obj\Debug\Persistencia.dll
+D:\DESENV\Condominio\Source\Persistencia\obj\Debug\Persistencia.pdb
+D:\DESENV\Condominio\Source\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\DESENV\Condominio\Source\Persistencia\bin\Debug\Util.dll
+D:\DESENV\Condominio\Source\Persistencia\bin\Debug\Util.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\bin\Debug\Dapper.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\bin\Debug\Negocio.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\bin\Debug\Util.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\bin\Debug\Negocio.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\bin\Debug\Util.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\bin\Debug\Dapper.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Persistencia\obj\Debug\Persistencia.pdb

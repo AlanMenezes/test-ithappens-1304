@@ -1,0 +1,13 @@
+D:\DESENV\Condominio\Source\Persistencia\bin\Release\Persistencia.dll
+D:\DESENV\Condominio\Source\Persistencia\bin\Release\Persistencia.pdb
+D:\DESENV\Condominio\Source\Persistencia\bin\Release\Dapper.dll
+D:\DESENV\Condominio\Source\Persistencia\bin\Release\Negocio.dll
+D:\DESENV\Condominio\Source\Persistencia\bin\Release\Negocio.pdb
+D:\DESENV\Condominio\Source\Persistencia\bin\Release\Dapper.xml
+D:\DESENV\Condominio\Source\Persistencia\obj\Release\Persistencia.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Source\Persistencia\obj\Release\Persistencia.csproj.CopyComplete
+D:\DESENV\Condominio\Source\Persistencia\obj\Release\Persistencia.dll
+D:\DESENV\Condominio\Source\Persistencia\obj\Release\Persistencia.pdb
+D:\DESENV\Condominio\Source\Persistencia\obj\Release\Persistencia.csproj.CoreCompileInputs.cache
+D:\DESENV\Condominio\Source\Persistencia\bin\Release\Util.dll
+D:\DESENV\Condominio\Source\Persistencia\bin\Release\Util.pdb

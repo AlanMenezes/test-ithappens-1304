@@ -1,0 +1,17 @@
+E:\OUTROS\Condominio\Source\Util\bin\Debug\Util.dll
+E:\OUTROS\Condominio\Source\Util\bin\Debug\Util.pdb
+E:\OUTROS\Condominio\Source\Util\obj\Debug\Util.csprojAssemblyReference.cache
+E:\OUTROS\Condominio\Source\Util\obj\Debug\Util.dll
+E:\OUTROS\Condominio\Source\Util\obj\Debug\Util.pdb
+D:\DESENV\Condominio\Source\Util\bin\Debug\Util.dll
+D:\DESENV\Condominio\Source\Util\bin\Debug\Util.pdb
+D:\DESENV\Condominio\Source\Util\obj\Debug\Util.dll
+D:\DESENV\Condominio\Source\Util\obj\Debug\Util.pdb
+D:\DESENV\Condominio\Source\Util\obj\Debug\Util.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Source\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Util\bin\Debug\Util.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Util\bin\Debug\Util.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Util\obj\Debug\Util.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Util\obj\Debug\Util.pdb

@@ -1,0 +1,13 @@
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\obj\Debug\MS.Persistencia.csprojAssemblyReference.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\obj\Debug\MS.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\bin\Debug\Dapper.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\bin\Debug\Negocio.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\bin\Debug\Util.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\bin\Debug\Negocio.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\bin\Debug\Util.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\bin\Debug\Dapper.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Persistencia\obj\Debug\MS.Persistencia.csproj.CopyComplete

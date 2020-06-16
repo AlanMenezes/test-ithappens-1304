@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="T:API.Controllers.PeriodoFinanceiroController">
+            <summary>
+            Esta classe fornece métodos de acesso ao Período Financeiro
+            </summary>
+        </member>
+    </members>
+</doc>

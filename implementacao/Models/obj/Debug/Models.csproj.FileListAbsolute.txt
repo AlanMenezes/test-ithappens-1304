@@ -1,0 +1,17 @@
+E:\OUTROS\Condominio\Source\Models\bin\Debug\Models.dll
+E:\OUTROS\Condominio\Source\Models\bin\Debug\Models.pdb
+E:\OUTROS\Condominio\Source\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\OUTROS\Condominio\Source\Models\obj\Debug\Models.dll
+E:\OUTROS\Condominio\Source\Models\obj\Debug\Models.pdb
+D:\DESENV\Condominio\Source\Models\bin\Debug\Models.dll
+D:\DESENV\Condominio\Source\Models\bin\Debug\Models.pdb
+D:\DESENV\Condominio\Source\Models\obj\Debug\Models.dll
+D:\DESENV\Condominio\Source\Models\obj\Debug\Models.pdb
+D:\DESENV\Condominio\Source\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Source\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Models\bin\Debug\Models.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Models\bin\Debug\Models.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Models\obj\Debug\Models.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Models\obj\Debug\Models.pdb

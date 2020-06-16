@@ -1,0 +1,306 @@
+D:\DESENV\Condominio\API\bin\API.dll.config
+D:\DESENV\Condominio\API\bin\API.dll
+D:\DESENV\Condominio\API\bin\API.pdb
+D:\DESENV\Condominio\API\bin\roslyn\csc.exe
+D:\DESENV\Condominio\API\bin\roslyn\csc.exe.config
+D:\DESENV\Condominio\API\bin\roslyn\csc.rsp
+D:\DESENV\Condominio\API\bin\roslyn\csi.exe
+D:\DESENV\Condominio\API\bin\roslyn\csi.exe.config
+D:\DESENV\Condominio\API\bin\roslyn\csi.rsp
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DESENV\Condominio\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.AppContext.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Collections.Immutable.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Console.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Globalization.Calendars.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.IO.Compression.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.IO.FileSystem.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Net.Http.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Net.Sockets.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.ValueTuple.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Xml.XPath.dll
+D:\DESENV\Condominio\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DESENV\Condominio\API\bin\roslyn\vbc.exe
+D:\DESENV\Condominio\API\bin\roslyn\vbc.exe.config
+D:\DESENV\Condominio\API\bin\roslyn\vbc.rsp
+D:\DESENV\Condominio\API\bin\roslyn\VBCSCompiler.exe
+D:\DESENV\Condominio\API\bin\roslyn\VBCSCompiler.exe.config
+D:\DESENV\Condominio\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DESENV\Condominio\API\bin\Negocio.dll
+D:\DESENV\Condominio\API\bin\Newtonsoft.Json.dll
+D:\DESENV\Condominio\API\bin\Persistencia.dll
+D:\DESENV\Condominio\API\bin\System.Net.Http.Formatting.dll
+D:\DESENV\Condominio\API\bin\System.Web.Http.dll
+D:\DESENV\Condominio\API\bin\System.Web.Http.WebHost.dll
+D:\DESENV\Condominio\API\bin\Dapper.dll
+D:\DESENV\Condominio\API\bin\Negocio.pdb
+D:\DESENV\Condominio\API\bin\Persistencia.pdb
+D:\DESENV\Condominio\API\bin\Newtonsoft.Json.xml
+D:\DESENV\Condominio\API\bin\System.Net.Http.Formatting.xml
+D:\DESENV\Condominio\API\bin\System.Web.Http.xml
+D:\DESENV\Condominio\API\bin\System.Web.Http.WebHost.xml
+D:\DESENV\Condominio\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DESENV\Condominio\API\bin\Dapper.xml
+D:\DESENV\Condominio\API\obj\Debug\API.csprojAssemblyReference.cache
+D:\DESENV\Condominio\API\obj\Debug\API.csproj.CopyComplete
+D:\DESENV\Condominio\API\obj\Debug\API.dll
+D:\DESENV\Condominio\API\obj\Debug\API.pdb
+E:\OUTROS\Condominio\Source\API\bin\API.dll.config
+E:\OUTROS\Condominio\Source\API\bin\API.dll
+E:\OUTROS\Condominio\Source\API\bin\API.pdb
+E:\OUTROS\Condominio\Source\API\bin\roslyn\csc.exe
+E:\OUTROS\Condominio\Source\API\bin\roslyn\csc.exe.config
+E:\OUTROS\Condominio\Source\API\bin\roslyn\csc.rsp
+E:\OUTROS\Condominio\Source\API\bin\roslyn\csi.exe
+E:\OUTROS\Condominio\Source\API\bin\roslyn\csi.exe.config
+E:\OUTROS\Condominio\Source\API\bin\roslyn\csi.rsp
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OUTROS\Condominio\Source\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.AppContext.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Collections.Immutable.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Console.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Globalization.Calendars.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.IO.Compression.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.IO.FileSystem.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Net.Http.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Net.Sockets.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Reflection.Metadata.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.ValueTuple.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Xml.XPath.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\OUTROS\Condominio\Source\API\bin\roslyn\vbc.exe
+E:\OUTROS\Condominio\Source\API\bin\roslyn\vbc.exe.config
+E:\OUTROS\Condominio\Source\API\bin\roslyn\vbc.rsp
+E:\OUTROS\Condominio\Source\API\bin\roslyn\VBCSCompiler.exe
+E:\OUTROS\Condominio\Source\API\bin\roslyn\VBCSCompiler.exe.config
+E:\OUTROS\Condominio\Source\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OUTROS\Condominio\Source\API\bin\Negocio.dll
+E:\OUTROS\Condominio\Source\API\bin\Newtonsoft.Json.dll
+E:\OUTROS\Condominio\Source\API\bin\Persistencia.dll
+E:\OUTROS\Condominio\Source\API\bin\System.Net.Http.Formatting.dll
+E:\OUTROS\Condominio\Source\API\bin\System.Web.Http.dll
+E:\OUTROS\Condominio\Source\API\bin\System.Web.Http.WebHost.dll
+E:\OUTROS\Condominio\Source\API\bin\Dapper.dll
+E:\OUTROS\Condominio\Source\API\bin\Negocio.pdb
+E:\OUTROS\Condominio\Source\API\bin\Persistencia.pdb
+E:\OUTROS\Condominio\Source\API\bin\Newtonsoft.Json.xml
+E:\OUTROS\Condominio\Source\API\bin\System.Net.Http.Formatting.xml
+E:\OUTROS\Condominio\Source\API\bin\System.Web.Http.xml
+E:\OUTROS\Condominio\Source\API\bin\System.Web.Http.WebHost.xml
+E:\OUTROS\Condominio\Source\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OUTROS\Condominio\Source\API\bin\Dapper.xml
+E:\OUTROS\Condominio\Source\API\obj\Debug\API.csprojAssemblyReference.cache
+E:\OUTROS\Condominio\Source\API\obj\Debug\API.csproj.CopyComplete
+E:\OUTROS\Condominio\Source\API\obj\Debug\API.dll
+E:\OUTROS\Condominio\Source\API\obj\Debug\API.pdb
+D:\DESENV\Condominio\Source\API\bin\API.dll.config
+D:\DESENV\Condominio\Source\API\bin\API.dll
+D:\DESENV\Condominio\Source\API\bin\API.pdb
+D:\DESENV\Condominio\Source\API\bin\roslyn\csc.exe
+D:\DESENV\Condominio\Source\API\bin\roslyn\csc.exe.config
+D:\DESENV\Condominio\Source\API\bin\roslyn\csc.rsp
+D:\DESENV\Condominio\Source\API\bin\roslyn\csi.exe
+D:\DESENV\Condominio\Source\API\bin\roslyn\csi.exe.config
+D:\DESENV\Condominio\Source\API\bin\roslyn\csi.rsp
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DESENV\Condominio\Source\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.AppContext.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Collections.Immutable.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Console.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Globalization.Calendars.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.IO.Compression.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.IO.FileSystem.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Net.Http.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Net.Sockets.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.ValueTuple.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Xml.XPath.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DESENV\Condominio\Source\API\bin\roslyn\vbc.exe
+D:\DESENV\Condominio\Source\API\bin\roslyn\vbc.exe.config
+D:\DESENV\Condominio\Source\API\bin\roslyn\vbc.rsp
+D:\DESENV\Condominio\Source\API\bin\roslyn\VBCSCompiler.exe
+D:\DESENV\Condominio\Source\API\bin\roslyn\VBCSCompiler.exe.config
+D:\DESENV\Condominio\Source\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DESENV\Condominio\Source\API\bin\Negocio.dll
+D:\DESENV\Condominio\Source\API\bin\Newtonsoft.Json.dll
+D:\DESENV\Condominio\Source\API\bin\Persistencia.dll
+D:\DESENV\Condominio\Source\API\bin\System.Net.Http.Formatting.dll
+D:\DESENV\Condominio\Source\API\bin\System.Web.Http.dll
+D:\DESENV\Condominio\Source\API\bin\System.Web.Http.WebHost.dll
+D:\DESENV\Condominio\Source\API\bin\Dapper.dll
+D:\DESENV\Condominio\Source\API\bin\Negocio.pdb
+D:\DESENV\Condominio\Source\API\bin\Persistencia.pdb
+D:\DESENV\Condominio\Source\API\bin\Newtonsoft.Json.xml
+D:\DESENV\Condominio\Source\API\bin\System.Net.Http.Formatting.xml
+D:\DESENV\Condominio\Source\API\bin\System.Web.Http.xml
+D:\DESENV\Condominio\Source\API\bin\System.Web.Http.WebHost.xml
+D:\DESENV\Condominio\Source\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DESENV\Condominio\Source\API\bin\Dapper.xml
+D:\DESENV\Condominio\Source\API\obj\Debug\API.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Source\API\obj\Debug\API.csproj.CopyComplete
+D:\DESENV\Condominio\Source\API\obj\Debug\API.dll
+D:\DESENV\Condominio\Source\API\obj\Debug\API.pdb
+D:\DESENV\Condominio\Source\API\bin\Models.dll
+D:\DESENV\Condominio\Source\API\bin\Models.pdb
+E:\OUTROS\Condominio\Source\API\bin\Models.dll
+E:\OUTROS\Condominio\Source\API\bin\Models.pdb
+D:\DESENV\Condominio\Source\API\bin\Microsoft.Web.Infrastructure.dll
+D:\DESENV\Condominio\Source\API\bin\Swashbuckle.Core.dll
+D:\DESENV\Condominio\Source\API\bin\WebActivatorEx.dll
+D:\DESENV\Condominio\Source\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\DESENV\Condominio\Source\API\bin\Util.dll
+D:\DESENV\Condominio\Source\API\bin\Util.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\API.dll.config
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\API.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\API.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\csc.exe
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\csc.exe.config
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\csc.rsp
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\csi.exe
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\csi.exe.config
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\csi.rsp
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.AppContext.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Console.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Net.Http.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\vbc.exe
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\vbc.exe.config
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\vbc.rsp
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Models.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Negocio.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Newtonsoft.Json.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Persistencia.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Swashbuckle.Core.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\System.Net.Http.Formatting.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\System.Web.Http.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\System.Web.Http.WebHost.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Util.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\WebActivatorEx.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Dapper.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Models.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Negocio.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Persistencia.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Util.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Newtonsoft.Json.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\System.Net.Http.Formatting.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\System.Web.Http.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\System.Web.Http.WebHost.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\bin\Dapper.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\obj\Debug\API.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\API\obj\Debug\API.pdb

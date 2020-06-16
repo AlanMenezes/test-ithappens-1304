@@ -1,0 +1,82 @@
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Negocio.Teste.dll
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Negocio.Teste.pdb
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\FluentAssertions.dll
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Negocio.dll
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\System.ValueTuple.dll
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Negocio.pdb
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\FluentAssertions.pdb
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\FluentAssertions.xml
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DESENV\Condominio\Negocio.Teste\bin\Debug\System.ValueTuple.xml
+D:\DESENV\Condominio\Negocio.Teste\obj\Debug\Negocio.Teste.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Negocio.Teste\obj\Debug\Negocio.Teste.csproj.CopyComplete
+D:\DESENV\Condominio\Negocio.Teste\obj\Debug\Negocio.Teste.dll
+D:\DESENV\Condominio\Negocio.Teste\obj\Debug\Negocio.Teste.pdb
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Negocio.Teste.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Negocio.Teste.pdb
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\FluentAssertions.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Negocio.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\System.ValueTuple.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Negocio.pdb
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\FluentAssertions.pdb
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\FluentAssertions.xml
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DESENV\Condominio\Source\Negocio.Teste\bin\Debug\System.ValueTuple.xml
+D:\DESENV\Condominio\Source\Negocio.Teste\obj\Debug\Negocio.Teste.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Source\Negocio.Teste\obj\Debug\Negocio.Teste.csproj.CopyComplete
+D:\DESENV\Condominio\Source\Negocio.Teste\obj\Debug\Negocio.Teste.dll
+D:\DESENV\Condominio\Source\Negocio.Teste\obj\Debug\Negocio.Teste.pdb
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Negocio.Teste.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Negocio.Teste.pdb
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\FluentAssertions.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Negocio.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\System.ValueTuple.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Negocio.pdb
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\FluentAssertions.pdb
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\FluentAssertions.xml
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\OUTROS\Condominio\Source\Negocio.Teste\bin\Debug\System.ValueTuple.xml
+E:\OUTROS\Condominio\Source\Negocio.Teste\obj\Debug\Negocio.Teste.csprojAssemblyReference.cache
+E:\OUTROS\Condominio\Source\Negocio.Teste\obj\Debug\Negocio.Teste.csproj.CopyComplete
+E:\OUTROS\Condominio\Source\Negocio.Teste\obj\Debug\Negocio.Teste.dll
+E:\OUTROS\Condominio\Source\Negocio.Teste\obj\Debug\Negocio.Teste.pdb
+D:\DESENV\Condominio\Source\Negocio.Teste\obj\Debug\Negocio.Teste.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Negocio.Teste.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Negocio.Teste.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\FluentAssertions.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Negocio.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\System.ValueTuple.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Negocio.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\FluentAssertions.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\FluentAssertions.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\bin\Debug\System.ValueTuple.xml
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\obj\Debug\Negocio.Teste.csprojAssemblyReference.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\obj\Debug\Negocio.Teste.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\obj\Debug\Negocio.Teste.csproj.CopyComplete
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\obj\Debug\Negocio.Teste.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Source\Negocio.Teste\obj\Debug\Negocio.Teste.pdb

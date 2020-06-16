@@ -1,0 +1,5 @@
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Models\bin\Debug\Models.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Models\bin\Debug\Models.pdb
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Models\obj\Debug\MS.Models.csproj.CoreCompileInputs.cache
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Models\obj\Debug\Models.dll
+C:\Users\menezes\Documents\Visual Studio 2017\Projects\Test_Ithappens\Source\Models\obj\Debug\Models.pdb

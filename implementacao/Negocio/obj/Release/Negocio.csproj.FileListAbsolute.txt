@@ -1,0 +1,6 @@
+D:\DESENV\Condominio\Source\Negocio\bin\Release\Negocio.dll
+D:\DESENV\Condominio\Source\Negocio\bin\Release\Negocio.pdb
+D:\DESENV\Condominio\Source\Negocio\obj\Release\Negocio.csprojAssemblyReference.cache
+D:\DESENV\Condominio\Source\Negocio\obj\Release\Negocio.dll
+D:\DESENV\Condominio\Source\Negocio\obj\Release\Negocio.pdb
+D:\DESENV\Condominio\Source\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
